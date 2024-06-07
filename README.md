@@ -2,15 +2,6 @@
 
 Este repositório contém o código-fonte da aplicação OceanCare, uma API Spring Boot para monitoramento de cuidados com o oceano, juntamente com a configuração da pipeline de CI/CD usando Azure DevOps.
 
-## Sumário
-
-- [Pré-requisitos](#pré-requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-- [Configuração da Pipeline CI/CD](#configuração-da-pipeline-cicd)
-- [Deploy no Azure Container Instances (ACI)](#deploy-no-azure-container-instances-aci)
-- [Testes](#testes)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter os seguintes itens instalados e configurados:
@@ -32,5 +23,4 @@ Azure Container Instances (ACI): Instâncias de containers
 
 
 Informações do banco de dados
-user: oceancare
-password: Fiap@2tds
+na documentação
