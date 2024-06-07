@@ -1,4 +1,5 @@
 # OceanCare
+![image](https://github.com/GuilhermeVarellaa/Azure-OceanCare-Backend/assets/111613789/8b8b8a1e-0240-431e-88ab-924d2c79711d)
 
 Este repositório contém o código-fonte da aplicação OceanCare, uma API Spring Boot para monitoramento de cuidados com o oceano, juntamente com a configuração da pipeline de CI/CD usando Azure DevOps.
 
